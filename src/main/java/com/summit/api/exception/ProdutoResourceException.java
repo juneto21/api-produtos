@@ -3,7 +3,7 @@ package com.summit.api.exception;
 public class ProdutoResourceException extends Exception {
 
 	/**
-	 * 
+	 * teste
 	 */
 	private static final long serialVersionUID = 3188935602734356923L;
 
